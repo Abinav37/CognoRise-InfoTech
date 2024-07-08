@@ -1,4 +1,4 @@
-# Internship Projects: Rock-Paper-Scissors Game, Simple Calculator, and Dice Rolling Simulator
+# CognoRise_InfoTech Internship Projects: Rock-Paper-Scissors Game, Simple Calculator, and Dice Rolling Simulator
 
 ## Overview
 
@@ -29,10 +29,10 @@ This is a simple Rock-Paper-Scissors game where the user plays against the compu
 
 ### Usage
 
-1. Navigate to the directory containing `rock_paper_scissors.py`.
+1. Navigate to the directory containing `Rock Paper Scissors.py`.
 2. Run the script using:
     ```sh
-    python rock_paper_scissors.py
+    python Rock Paper Scissors.py
     ```
 
 ### Code Overview
@@ -59,10 +59,10 @@ This is a simple calculator that performs basic arithmetic operations (addition,
 
 ### Usage
 
-1. Navigate to the directory containing `calculator.py`.
+1. Navigate to the directory containing `Calculator.py`.
 2. Run the script using:
     ```sh
-    python calculator.py
+    python Calculator.py
     ```
 
 ### Code Overview
@@ -87,10 +87,10 @@ This is a simple dice rolling simulator that allows users to specify the number 
 
 ### Usage
 
-1. Navigate to the directory containing `dice_roller.py`.
+1. Navigate to the directory containing `Dice Rolling.py`.
 2. Run the script using:
     ```sh
-    python dice_roller.py
+    python Dice Rolling.py
     ```
 
 ### Code Overview
